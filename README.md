@@ -23,4 +23,4 @@ A dynamic web application that fetches and displays unlimited random quotes with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/unlimited-quote-machine.git
+   git clone https://github.com/Tikesh-sahu-git/Quote.git
