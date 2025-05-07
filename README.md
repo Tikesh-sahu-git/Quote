@@ -2,7 +2,7 @@
 
 A dynamic web application that fetches and displays unlimited random quotes with beautiful color transitions.
 
-![Quote Machine Screenshot](screenshot.png) *(Replace with your actual screenshot)*
+![Quote Machine Screenshot](screenshot.png)
 
 ## Features ✨
 
